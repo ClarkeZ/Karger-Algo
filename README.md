@@ -22,7 +22,7 @@ L'algorithme que vous souhaitez tester :
 5 - Création d'un graphe - Structure Matrice
 6 - Création d'un graphe - Structure Liste
 
-> 3
+ > 3
 
 1 - Matrice cyclique
 2 - Matrice complete
@@ -31,13 +31,13 @@ L'algorithme que vous souhaitez tester :
 5 - Matrice etoile
 2
 
-> 2
+ > 2
 
 1 - Karger 
 2 - Karger itere
 3 - Karger-Stein
 
-> 1
+ > 1
 
 
 Et un graphe sera affiché, cependant la courbe bleu ne sera pas bon, il ne faut pas en tenir compte.

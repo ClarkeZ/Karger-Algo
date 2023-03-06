@@ -39,5 +39,5 @@ $ > 2
 $ > 1
 
 
-Et un graphe sera affiché, cependant la courbe bleu ne sera pas bon, il ne faut pas en tenir compte.\
+Et un graphe montrant l'évolution du temps d'exécution par rapport à la taille du graphe sera affiché, cependant la courbe bleu ne sera pas bon, il ne faut pas en tenir compte.\
 Il faut le modifier manuellement dans le fichier graph.py à la ligne 31
